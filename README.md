@@ -22,4 +22,4 @@ Card with customizable social networks and content
 
 [See it running](https://mitsuyacard.netlify.app/) 
 
-If you want to give me a little gift, I'd appreciate it [Buymeacoffe](https://www.buymeacoffee.com/buccini)
+If you want to give me a little gift, I'd appreciate it [ko-fi](https://ko-fi.com/buccini555)
